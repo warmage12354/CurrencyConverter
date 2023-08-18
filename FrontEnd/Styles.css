@@ -1,0 +1,52 @@
+
+body { 
+
+    background-color:beige;
+
+}
+
+#Instructions { 
+    position: absolute;
+    margin:auto;
+    width: 20%;
+    left: 40%;
+    bottom: 60%; 
+    border-style: solid; 
+    padding: 1%;
+    border-color:cadetblue;  
+    background-color: crimson;
+
+
+} 
+
+.container {  
+   
+
+padding: 1%;
+position: absolute;
+margin:auto; 
+
+width: 30%; 
+bottom: 50%; 
+left: 35%;
+border-style: solid; 
+border-color:cadetblue; 
+background-color: dodgerblue;
+
+} 
+
+#from,#to,#convert { 
+
+    border-radius: 20%;
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: large; 
+    box-shadow: 4px 4px #ccc; ; 
+    background-color: aqua; 
+
+} 
+
+#convert { 
+
+
+
+}
